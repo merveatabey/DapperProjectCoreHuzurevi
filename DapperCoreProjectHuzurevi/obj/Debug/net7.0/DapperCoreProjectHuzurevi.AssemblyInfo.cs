@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperCoreProjectHuzurevi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c91cc7a166f064403e184ee0f2dc199b0f37ee1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperCoreProjectHuzurevi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperCoreProjectHuzurevi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
