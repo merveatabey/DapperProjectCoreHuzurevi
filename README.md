@@ -4,31 +4,19 @@ Bu proje, bir huzurevine ait yönetim ve bilgilendirme süreçlerini dijital ort
 
 ![Ekran Kaydı 2025-06-30 19 40 23 2](https://github.com/user-attachments/assets/561422f4-268e-4fcd-8eee-712112601055)
 
+![Ekran Kaydı 2025-06-30 19 40 23 3](https://github.com/user-attachments/assets/5d59e2bb-0331-4cb4-bd2b-c272eedd6211)
 
 
-
-https://github.com/user-attachments/assets/27a718ee-d5c1-4830-a857-484243fd0ee3
-
+![Ekran Kaydı 2025-06-30 19 40 23 4](https://github.com/user-attachments/assets/638cf14c-9b37-46ff-9db6-2a01299f1dd9)
 
 
-https://github.com/user-attachments/assets/61db41d5-8816-4f76-91a2-b0d6579274af
+![Ekran Kaydı 2025-06-30 19 40 23 5](https://github.com/user-attachments/assets/5c86ee4d-bdf9-4b70-ae1a-850bd2f039fb)
 
 
-
-https://github.com/user-attachments/assets/73216a30-acd1-43cc-87c4-52efad94a8e4
-
+![Ekran Kaydı 2025-06-30 20 02 56](https://github.com/user-attachments/assets/99304f98-b8a4-4923-9511-5adebf231fd0)
 
 
-https://github.com/user-attachments/assets/671ffdaf-95b6-47cc-b698-5e6e606e00ab
-
-
-https://github.com/user-attachments/assets/98ee1f8d-2da4-45a0-89bb-a200078394f9
-
-
-
-https://github.com/user-attachments/assets/e301c3ee-c01d-4e32-a497-74ac79a0ff75
-
-
+![Ekran Kaydı 2025-06-30 20 03 24](https://github.com/user-attachments/assets/708b3bbe-dc6f-4358-8e6e-a6748e2ac29b)
 
 
 
