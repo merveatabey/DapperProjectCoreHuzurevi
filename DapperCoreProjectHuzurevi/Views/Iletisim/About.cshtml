@@ -1,0 +1,255 @@
+﻿@model DapperCoreProjectHuzurevi.Models.HakkimizdaViewModel
+@{Layout = "~/Views/Shared/_Layout2.cshtml";
+
+    }
+
+
+<style>
+    .content {
+        font-size: 14px; /* genel boyutu küçültür */
+    }
+
+        .content ul li {
+            font-size: 13px; /* özellikle liste elemanlarını daha da küçültür */
+            line-height: 1.5;
+        }
+        .content h3 {
+            font-size: 20px;
+        }
+
+        .content p {
+            font-size: 14px;
+        }
+
+</style>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<body class="about-page">
+
+    <main class="main">
+
+        <!-- About Section -->
+        <section id="about" class="about section">
+
+            <!-- Section Title -->
+            <div class="container section-title" data-aos="fade-up">
+                <h2>@Model.Iletisim.Baslik</h2>
+                <p>@Model.Iletisim.KisaAciklama</p>
+            </div><!-- End Section Title -->
+
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+                <div class="row gy-4 justify-content-center">
+                    <div class="col-lg-4">
+                        <img src="~/assets/img/yibei-geng--UdYbiywGeg-unsplash.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-8 content">
+                        <h3>Kurumsal Tanıtım</h3>
+                        <p class="fst-italic py-3">
+                            @Model.Iletisim.DetayAciklama
+                        </p>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <ul>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Kuruluş Yılı:</strong><span>@Model.Iletisim.KurulusYili.ToString("dd.MM.yyyy")</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>İletişim:</strong> <span>@Model.Iletisim.Telefon</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>@Model.Iletisim.Email</span></li>
+
+                                </ul>
+                            </div>
+                            <div class="col-lg-6">
+                                <ul>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Web Sitesi:</strong> <span>@Model.Iletisim.WebSitesi</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Adres:</strong> <span>@Model.Iletisim.Adres</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <p class="py-3">
+                            Her bireyin değerli ve özel olduğuna inanıyoruz. Bu anlayışla hizmet veren huzurevimizde,
+                            bireylerin hem fiziksel hem de ruhsal ihtiyaçlarını gözeterek huzurlu bir ortam sunuyoruz.
+                            Modern tesislerimiz, nitelikli personelimiz ve güçlü etik değerlerimizle, güvenilir bir yaşam alanı yaratıyoruz.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+
+        </section>
+        <!-- /About Section -->
+        <!-- Skills Section -->
+        <section id="skills" class="skills section">
+
+            <!-- Section Title -->
+            <div class="container section-title" data-aos="fade-up">
+                <h2>İstatistikler</h2>
+                <p>Bize dair sayısal bilgiler ve aylık performans özetleri.</p>
+            </div><!-- End Section Title -->
+
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+                <div class="row skills-content skills-animation">
+
+                    <div class="col-lg-6">
+
+                        <div class="progress">
+                            <span class="skill"><span>Yaşlı bireylerimiz</span> <i class="val">@Model.ToplamYasliSayisi</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div><!-- End Skills Item -->
+
+                        <div class="progress">
+                            <span class="skill"><span>Toplam Personelimiz</span> <i class="val">@Model.PersonelSayisi</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div><!-- End Skills Item -->
+
+                        <div class="progress">
+                            <span class="skill"><span>Günlük Ziyaretçi Ortlamamız</span> <i class="val">@Model.GunlukOrtalamaZiyaretci</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div><!-- End Skills Item -->
+
+                    </div>
+
+                    <div class="col-lg-6">
+
+                        <div class="progress">
+                            <span class="skill"><span>Aylık Etkinlik Ortalamamız</span> <i class="val">@Model.AylikEtkinlikSayisi</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div><!-- End Skills Item -->
+
+                        <div class="progress">
+                            <span class="skill"><span>Toplam Kapasitemiz</span> <i class="val">@Model.ToplamKapasite<i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div><!-- End Skills Item -->
+
+                        <div class="progress">
+                            <span class="skill"><span>Türkiyedeki Şubelerimiz</span> <i class="val">@Model.ToplamSubeSayisi<i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div><!-- End Skills Item -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section><!-- /Skills Section -->
+        <!-- Stats Section -->
+        <section id="stats" class="stats section">
+
+            <!-- Section Title -->
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Rakamlarla Biz</h2>
+                <p>7/24 Hizmetinizdeyiz...</p>
+            </div><!-- End Section Title -->
+
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+                <div class="row gy-4">
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item text-center w-100 h-100">
+                            <span data-purecounter-start="0" data-purecounter-end="@Model.ToplamYasliSayisi" data-purecounter-duration="1" class="purecounter"></span>
+                            <p>Yaşlı Bireylerimiz</p>
+                        </div>
+                    </div><!-- End Stats Item -->
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item text-center w-100 h-100">
+                            <span data-purecounter-start="0" data-purecounter-end="@Model.PersonelSayisi" data-purecounter-duration="1" class="purecounter"></span>
+                            <p>Personellerimiz</p>
+                        </div>
+                    </div><!-- End Stats Item -->
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item text-center w-100 h-100">
+                            <span data-purecounter-start="0" data-purecounter-end="@Model.ToplamSubeSayisi" data-purecounter-duration="1" class="purecounter"></span>
+                            <p>Şubelerimiz</p>
+                        </div>
+                    </div><!-- End Stats Item -->
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item text-center w-100 h-100">
+                            <span data-purecounter-start="0" data-purecounter-end="@Model.ToplamKapasite" data-purecounter-duration="1" class="purecounter"></span>
+                            <p>Kapasitemiz</p>
+                        </div>
+                    </div><!-- End Stats Item -->
+
+                </div>
+
+            </div>
+
+        </section><!-- /Stats Section -->
+        <section id="testimonials" class="testimonials section">
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Ziyaretçi Yorumları</h2>
+                <p>Misafirlerimizin huzurevi hakkında görüşleri.</p>
+            </div>
+
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+                <div class="swiper init-swiper">
+                    <script type="application/json" class="swiper-config">
+                        {
+                          "loop": true,
+                          "speed": 600,
+                          "autoplay": {
+                            "delay": 5000
+                          },
+                          "slidesPerView": "auto",
+                          "pagination": {
+                            "el": ".swiper-pagination",
+                            "type": "bullets",
+                            "clickable": true
+                          }
+                        }
+                    </script>
+
+                    <div class="swiper-wrapper">
+                        @foreach (var yorum in Model.Yorumlar)
+                        {
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <h3>@yorum.AdSoyad</h3>
+                                    <h4>@yorum.Tarih.ToString("dd MMMM yyyy")</h4>
+                                    <div class="stars">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>@yorum.Icerik</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+
+
+
+</body>
+
+</html>

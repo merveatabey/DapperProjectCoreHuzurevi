@@ -1,0 +1,10 @@
+﻿@model IEnumerable<DapperCoreProjectHuzurevi.Models.SubeModel>
+
+
+<ul>
+    @foreach(var item in Model)
+{
+        <li><a href="/Sube/Index?SubeAdi=@item.SubeAdi">@item.SubeAdi.ToUpper()</a></li>
+}
+</ul>
+

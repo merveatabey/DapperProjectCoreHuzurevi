@@ -1,0 +1,86 @@
+﻿
+@{ Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+@model DapperCoreProjectHuzurevi.Models.SubeModel
+
+<main class="main">
+
+    <!-- Portfolio Details Section -->
+    <section id="portfolio-details" class="portfolio-details section">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <h2>@Model.SubeAdi</h2>
+            <p>Sakin, huzurlu ve hijyenik bir bakım için buradayız.</p>
+        </div><!-- End Section Title -->
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="row gy-4">
+
+                <div class="col-lg-8">
+                    <div class="portfolio-details-slider swiper init-swiper">
+
+                        <script type="application/json" class="swiper-config">
+                            {
+                              "loop": true,
+                              "speed": 600,
+                              "autoplay": {
+                                "delay": 5000
+                              },
+                              "slidesPerView": "auto",
+                              "pagination": {
+                                "el": ".swiper-pagination",
+                                "type": "bullets",
+                                "clickable": true
+                              }
+                            }
+                        </script>
+
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="~/assets/img/dr-kanapon-phumratprapin-xOvJBvcame8-unsplash.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
+                        <h3>Şube Bilgisi</h3>
+                        <ul>
+
+                            @*Şube bilgileri (firstordefault kaynaklı olduğunu düşünüyorum) gelmiyor*@
+
+                            <li><strong>Şube Adı</strong>: @Model.SubeAdi</li>
+                            <li><strong>Telefon</strong>: @Model.Telefon</li>
+                            <li><strong>E-posta</strong>: @Model.Mail</li>
+                            <li><strong>Sorumlu Kişi</strong>:@Model.SorumluKisi</li>
+                            <li><strong>Kapasite</strong>:@Model.Kapasite</li>
+                            <li><strong>Adres</strong>:@Model.Adres</li>
+
+
+                        </ul>
+                    </div>
+                    <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
+                        <h2>Huzur ve Güven Dolu Bir Yaşam Alanı</h2>
+                        <p>
+                            Huzurevimiz, yaşlı bireylerin kendilerini evlerinde hissetmeleri için tasarlanmış modern ve sıcak bir yaşam alanıdır.
+                            Uzman kadromuz ve sevgi dolu personelimizle, her bireyin fiziksel, ruhsal ve sosyal ihtiyaçlarına özenle yaklaşmaktayız.
+                            Amacımız, yaşlılarımızın kaliteli, sağlıklı ve mutlu bir yaşam sürmelerini sağlamak; onların haklarına ve onurlarına saygı göstermektir.
+                            Huzurevimizde güven, saygı ve sevgi temel prensiplerimizdir.
+                        </p>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section><!-- /Portfolio Details Section -->
+
+</main>

@@ -18,12 +18,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Hizmet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGl6bWV0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Iletisim/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSWxldGlzaW0vQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Iletisim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSWxldGlzaW0vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Iletisim/Istatistik.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSWxldGlzaW0vSXN0YXRpc3Rpay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Personel/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uZWwvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Shared/Components/SubeDropdown/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvU3ViZURyb3Bkb3duL0RlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Shared/Error.cshtml]
@@ -38,6 +58,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Sube/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -45,7 +69,3 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-gcegsb5o53

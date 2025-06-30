@@ -1,24 +1,8 @@
 {
   "Files": [
     {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/obj/Debug/net7.0/scopedcss/projectbundle/DapperCoreProjectHuzurevi.bundle.scp.css",
-      "PackagePath": "staticwebassets/DapperCoreProjectHuzurevi.bundle.scp.css"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/.DS_Store",
-      "PackagePath": "staticwebassets/.DS_Store"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/.DS_Store",
-      "PackagePath": "staticwebassets/assets/.DS_Store"
-    },
-    {
       "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/css/main.css",
       "PackagePath": "staticwebassets/assets/css/main.css"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/.DS_Store",
-      "PackagePath": "staticwebassets/assets/img/.DS_Store"
     },
     {
       "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/apple-touch-icon.png",
@@ -29,76 +13,20 @@
       "PackagePath": "staticwebassets/assets/img/dominik-lange-VUOiQW4OeLI-unsplash.jpg"
     },
     {
+      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/dr-kanapon-phumratprapin-xOvJBvcame8-unsplash.jpg",
+      "PackagePath": "staticwebassets/assets/img/dr-kanapon-phumratprapin-xOvJBvcame8-unsplash.jpg"
+    },
+    {
       "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/favicon.png",
       "PackagePath": "staticwebassets/assets/img/favicon.png"
     },
     {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/hero-bg.jpg",
-      "PackagePath": "staticwebassets/assets/img/hero-bg.jpg"
+      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/georg-arthur-pflueger-TeWwYARfcM4-unsplash.jpg",
+      "PackagePath": "staticwebassets/assets/img/georg-arthur-pflueger-TeWwYARfcM4-unsplash.jpg"
     },
     {
       "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/josh-appel-0nkFvdcM-X4-unsplash.jpg",
       "PackagePath": "staticwebassets/assets/img/josh-appel-0nkFvdcM-X4-unsplash.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/logo.png",
-      "PackagePath": "staticwebassets/assets/img/logo.png"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/masonry-portfolio/masonry-portfolio-1.jpg",
-      "PackagePath": "staticwebassets/assets/img/masonry-portfolio/masonry-portfolio-1.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/masonry-portfolio/masonry-portfolio-2.jpg",
-      "PackagePath": "staticwebassets/assets/img/masonry-portfolio/masonry-portfolio-2.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/masonry-portfolio/masonry-portfolio-3.jpg",
-      "PackagePath": "staticwebassets/assets/img/masonry-portfolio/masonry-portfolio-3.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/masonry-portfolio/masonry-portfolio-4.jpg",
-      "PackagePath": "staticwebassets/assets/img/masonry-portfolio/masonry-portfolio-4.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/masonry-portfolio/masonry-portfolio-5.jpg",
-      "PackagePath": "staticwebassets/assets/img/masonry-portfolio/masonry-portfolio-5.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/masonry-portfolio/masonry-portfolio-6.jpg",
-      "PackagePath": "staticwebassets/assets/img/masonry-portfolio/masonry-portfolio-6.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/masonry-portfolio/masonry-portfolio-7.jpg",
-      "PackagePath": "staticwebassets/assets/img/masonry-portfolio/masonry-portfolio-7.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/masonry-portfolio/masonry-portfolio-8.jpg",
-      "PackagePath": "staticwebassets/assets/img/masonry-portfolio/masonry-portfolio-8.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/masonry-portfolio/masonry-portfolio-9.jpg",
-      "PackagePath": "staticwebassets/assets/img/masonry-portfolio/masonry-portfolio-9.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/portfolio/app-1.jpg",
-      "PackagePath": "staticwebassets/assets/img/portfolio/app-1.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/portfolio/books-1.jpg",
-      "PackagePath": "staticwebassets/assets/img/portfolio/books-1.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/portfolio/branding-1.jpg",
-      "PackagePath": "staticwebassets/assets/img/portfolio/branding-1.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/portfolio/product-1.jpg",
-      "PackagePath": "staticwebassets/assets/img/portfolio/product-1.jpg"
-    },
-    {
-      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/profile-img.jpg",
-      "PackagePath": "staticwebassets/assets/img/profile-img.jpg"
     },
     {
       "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/testimonials/testimonials-1.jpg",
@@ -119,6 +47,10 @@
     {
       "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/testimonials/testimonials-5.jpg",
       "PackagePath": "staticwebassets/assets/img/testimonials/testimonials-5.jpg"
+    },
+    {
+      "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/img/yibei-geng--UdYbiywGeg-unsplash.jpg",
+      "PackagePath": "staticwebassets/assets/img/yibei-geng--UdYbiywGeg-unsplash.jpg"
     },
     {
       "Id": "/Users/mervesefil/Projects/DapperProjectCoreHuzurevi/DapperCoreProjectHuzurevi/wwwroot/assets/js/main.js",
