@@ -45,4 +45,4 @@ Bu proje, bir huzurevine ait yönetim ve bilgilendirme süreçlerini dijital ort
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/huzurevi-yonetim-sistemi.git
+   git clone https://github.com/merveatabey/DapperProjectCoreHuzurevi.git
